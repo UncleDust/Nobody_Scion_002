@@ -1,0 +1,14 @@
+CHALLENGING ACTIONS	
+
+file created: 01.01.2019
+
+ACTIONS are behaviors a Character can do in the game. 
+
+When the player announces an action, if it is of a simple nature (i.e. 
+something that most people can easily do) then they simply do it. Examples
+of simple actions are opening a door, going up some stairs, opening an 
+unlocked box, etc. 
+
+Other actions are of varying levels of difficulty and will require the
+player to use a chosen SKILL and/or a PLAYER CHARACTER ATTRIBUTE to 
+determine whether or not they succeed at more challenging actions. 
