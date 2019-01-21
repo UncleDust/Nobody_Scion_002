@@ -15,6 +15,10 @@ These two things determine the following physical attributes:
 	Flexibility
 	Endurance
 
+Hand/Eye cordination and Reflexes are a TBD combination of the mental 
+abilities CONCENTRATION and AWARENESS with STRENGTH/ENDURANCE and AGILITY/
+FLEXIBILITY respectively.
+
 MENTAL AND MAGICAL & PSYCHIC ABILITIES:
 
 This is the important part. This is base structure that determines game
@@ -33,8 +37,6 @@ an even fewer number of truly legendary players.
 The Nobody and the Scion are legendary level characters, but there are 
 other equally powerful non-player characters and what less powerful 
 characters lack in ability they compensate for in numbers and frequency.
-
-So what attributes influence the success of attacks, abnormal feat attempts,
 defensive measures, and responsive triggers? 
 
 CONCENTRATION: 
@@ -42,9 +44,9 @@ The ability to focus on an object of attention for an amount of time. This
 also is the ability to filter out extranous stimuli and focus attention on 
 the chosen object. 
 
-USE: 
-For ATTEMPTS vs. CHALLENGING ACTIONS 
-SAVING THROW vs. DISTRACTION
+	USE: 
+	For ATTEMPTS vs. CHALLENGING ACTIONS 
+	SAVING THROW vs. DISTRACTION
 
 AWARENESS: 
 This is similar to CONCENTRATION, but subtly differnent in that it is the
@@ -57,40 +59,41 @@ AWARENESS are:
 	3) Other
 	4) Transpersonal Situation
 
-USE: 
-RESPONSIVE TRIGGERS (e.g. AWARENESS OF DANGER, PRIZE, ADVERSARY)
-SAVING THROW vs. INTRUSIVE VOICE 
+	USE: 
+	RESPONSIVE TRIGGERS (e.g. AWARENESS OF DANGER, PRIZE, ADVERSARY)
+	SAVING THROW vs. INTRUSIVE VOICE 
 
 IMAGINATION:
 (Lateral & Abstract thinking, deduction, extrapolation, prediction, etc)
 
-USE: 
-To be able to effectively communicate (send, recieve, and decrypt) in 
-TWILIGHT LANGUAGE. 
-Create MAGICAL TOOLS and ARTIFACTS. 
+	USE: 
+	To be able to effectively communicate (send, recieve, and decrypt) in 
+	TWILIGHT LANGUAGE. 
+	Create MAGICAL TOOLS and ARTIFACTS. 
 
 WILL:
 (psychological)
 
-USE: 
-To STRENGTHEN RESOLVE - SELF AND OTHERS
-To MORALE BOOST - SELF AND OTHERS
-This determines MANA and PSI CAPACITIES (SEE SECTION BELOW)
+	USE: 
+	To STRENGTHEN RESOLVE - SELF AND OTHERS
+	To MORALE BOOST - SELF AND OTHERS
+	This determines MANA and PSI CAPACITIES (SEE SECTION BELOW)
 
 RESILIENCE:
-(Ego-Coherence / Psychological Integrity) 
-This is the ability to shield/mitigate against attacks 
+(Resolve / Ego-Coherence / Psychological Integrity) 
+This is the ability to shield/mitigate against psychic and magical
+attacks 
 and
-The ability to resist damage from attacks
+The ability to resist damage from psychic and magical attacks
 and
-The ability to recover from attacks
+The ability to recover from psychic and magical attacks
 
-USE: 
-To achieve CALM during meditation. 
-SAVING THROW vs. DESPAIR
-
+	USE: 
+	To achieve CALM during meditation. 
+	SAVING THROW vs. DESPAIR
 
 COURAGE: 
+
 
 DISCRIMINIATION / WISDOM: 
 The ability to tell the difference between mundane/real vs. super-mundane/
@@ -103,10 +106,10 @@ CALM:
 MANA:
  (MAGICAL LEVEL)
 
-USE:
-REALITY-BENDING (probability control; luck; hex;)
-ASTRAL TRAVEL (visit other dimensions; commune with the Gods)
-ENERGY MANIPULATION (DEFENSE, OFFENSE)
+	USE:
+	REALITY-BENDING (probability control; luck; hex;)
+	ASTRAL TRAVEL (visit other dimensions; commune with the Gods)
+	ENERGY MANIPULATION (DEFENSE, OFFENSE)
 
 PSI:
 (PSYCHIC LEVEL)
@@ -134,8 +137,8 @@ Man vs. Nature
 
 SKILLS AND ABILITIES
 
-Communication skills (persuasion, diplomacy, 
-intimidation)
+Communication skills & Psychological Attacks
+(persuasion, diplomacy, intimidation, etc.)
 MODIFIES CHARM, CONFUSE, INTIMIDATE, SCARE, SHAME AND DEPRESS.
 
 Magic

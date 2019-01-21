@@ -84,3 +84,23 @@ And so when he was finally carried to the trailer park home of his parent's
 and laid in his crib in their bedroom the first thing he noticed was the
 golden light and he could feel his hair growing as the horns honked and
 dogs barked in the twilight mixture of ochre sunbeams and black smog. 
+
+GM EYES ONLY: 
+
+Assign the player a real world task so that they can better identify with 
+the Nobody. 
+
+The player is to procure a notepad and pen. The notepad and pen are special
+and are only to be used for the assignment. 
+
+The player is to spend the time in-between game sessions cultivating the 
+ability to notice and be aware of noticing The Sacred. 
+
+Whenever the player notices that he is noticing The Sacred he is to make
+a note of it in his notebook. 
+
+At the begining he presents this notebook to the you, the GM. 
+
+As a reward he gains the INNER VOICE SKILL [#possible others TBD]
+And the next module can be started. 
+
